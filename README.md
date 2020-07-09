@@ -1,2 +1,3 @@
-# vue-quasar
-Created with CodeSandbox
+# Quasar App
+
+> WIP
